@@ -50,7 +50,7 @@
     <apachePoiVersion>3.9</apachePoiVersion>
     <jasyptVersion>1.9.0</jasyptVersion>
     <javaxServletApiVersion>2.5</javaxServletApiVersion>
-    <drewnoakesMetadataExtractorVersion>2.13.0</drewnoakesMetadataExtractorVersion>
+    <drewnoakesMetadataExtractorVersion>2.18.0</drewnoakesMetadataExtractorVersion>
     <logbackVersion>1.2.3</logbackVersion>
     <testngVersion>7.1.0</testngVersion>
 
