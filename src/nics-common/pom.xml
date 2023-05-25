@@ -48,7 +48,7 @@
   <properties>
     <!-- Dependency Versions -->
     <amqpClientVersion>5.8.0</amqpClientVersion>
-    <camelVersion>3.0.1</camelVersion>
+    <camelVersion>3.2.0</camelVersion>
     <commonsCliVersion>1.4</commonsCliVersion>
     <commonsCodecVersion>1.13</commonsCodecVersion>
     <commonsIoVersion>2.6</commonsIoVersion>
