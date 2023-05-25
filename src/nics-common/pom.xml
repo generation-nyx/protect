@@ -75,7 +75,7 @@
         <scope>test</scope>
       </dependency> -->
     <junit.version>4.12</junit.version>
-    <testngVersion>7.1.0</testngVersion>
+    <testngVersion>7.5.1</testngVersion>
 
     <!-- Plugin Versions -->
     <licenseMavenPluginVersion>3.0</licenseMavenPluginVersion>
