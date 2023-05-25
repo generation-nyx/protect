@@ -50,7 +50,7 @@
     <javaxJspApiVersion>2.3.3</javaxJspApiVersion>
     <javaxServletApiVersion>4.0.1</javaxServletApiVersion>
     <javaxWebsocketApiVersion>1.1</javaxWebsocketApiVersion>
-    <jsonVersion>20190722</jsonVersion>
+    <jsonVersion>20230227</jsonVersion>
     <!--
       NOTE: If you go by maven's info, you get told jstl moved to the javax.servlet.jsp.jstl:jstl coordinate,
       but that's empty, and apparently the same thing as the old javax.servlet:jstl, so KEEP this one until
