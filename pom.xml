@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  
+  <modelVersion>4.0.0</modelVersion>
+  
+  <groupId>com.generationnyx</groupId>
+  <artifactId>protect</artifactId>
+  <version>main-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  
+  <modules>
+    <module>src/nics-assembly</module>
+    <module>src/nics-common</module>
+    <module>src/nics-tools</module>
+    <module>src/em-api</module>
+    <module>src/iweb-modules</module>
+    <module>src/nics-web</module>
+   </modules>
+</project>
