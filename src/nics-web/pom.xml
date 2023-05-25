@@ -46,7 +46,7 @@
 
   <properties>
     <!-- Dependency Versions -->
-    <esapiVersion>2.2.0.0</esapiVersion>
+    <esapiVersion>2.3.0.0</esapiVersion>
     <javaxJspApiVersion>2.3.3</javaxJspApiVersion>
     <javaxServletApiVersion>4.0.1</javaxServletApiVersion>
     <javaxWebsocketApiVersion>1.1</javaxWebsocketApiVersion>
