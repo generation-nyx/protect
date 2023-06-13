@@ -59,7 +59,7 @@
     <logbackVersion>1.2.3</logbackVersion>
     <javaxWsRsApiVersion>2.1.1</javaxWsRsApiVersion>
     <jerseyVersion>2.30</jerseyVersion>
-    <jettyVersion>9.4.26.v20200117</jettyVersion>
+    <jettyVersion>10.0.14</jettyVersion>
     <postgresqlVersion>42.2.9</postgresqlVersion>
     <restAssuredVersion>4.3.0</restAssuredVersion> <!--4.1.2-->
     <restEasyVersion>3.11.2.Final</restEasyVersion> <!--3.6.1.SP2, but also new breaking version out 4.5.x-->
